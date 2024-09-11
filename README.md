@@ -1,5 +1,3 @@
-![bash_unit CI](https://github.com/indiecatastrophe/secretdox/workflows/bash_unit%20CI/badge.svg)
-![Shellcheck CI](https://github.com/indiecatastrophe/secretdox/workflows/Shellcheck%20CI/badge.svg)
 ![GH Language](https://img.shields.io/github/languages/top/indiecatastrophe/secretdox)
 ![GH stars](https://img.shields.io/github/stars/indiecatastrophe/secretdox)
 ![GH tag](https://img.shields.io/github/v/tag/indiecatastrophe/secretdox)
