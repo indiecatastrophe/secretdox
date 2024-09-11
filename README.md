@@ -8,14 +8,14 @@
 
 # pforret/mkdox
 
-![](assets/unsplash.documents.jpg)
+![](assets/secretdox.jpg)
 
-Convenient bash wrapper for Mkdocs Material projects via Docker
+Convenient bash wrapper for creating a local website of secrets that can be securely shared, using Mkdocs Material projects via Docker
 
 ## 🔥 Usage
 
 ```
-Program : mkdox  by peter@forret.com
+Program : secretdox by peter@forret.com
 Version : v0.1.34 (2024-02-21 23:06)
 Purpose : easy wrapper for Material Mkdocs in Docker mode
 Usage   : mkdox [-h] [-q] [-v] [-f] [-G] [-I] [-Q] [-R] [-T] [-X] [-l <log_dir>] [-t <tmp_dir>] [-D <DOCKER>] [-E <TITLE>] [-H <HISTORY>] [-L <LENGTH>] [-P <PORT>] [-S <SECS>] <action> <input?> <output?>

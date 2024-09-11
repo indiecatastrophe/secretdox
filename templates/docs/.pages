@@ -1,0 +1,10 @@
+nav:
+    - "Home": /
+    - "Blog": blog
+    - "|": /
+    - "Family": family
+    - "Real Estate": realestate
+    - "Finance": finance
+    - "Business": business
+    - "|": /
+    - about
