@@ -1,9 +1,9 @@
-![bash_unit CI](https://github.com/pforret/mkdox/workflows/bash_unit%20CI/badge.svg)
-![Shellcheck CI](https://github.com/pforret/mkdox/workflows/Shellcheck%20CI/badge.svg)
-![GH Language](https://img.shields.io/github/languages/top/pforret/mkdox)
-![GH stars](https://img.shields.io/github/stars/pforret/mkdox)
-![GH tag](https://img.shields.io/github/v/tag/pforret/mkdox)
-![GH License](https://img.shields.io/github/license/pforret/mkdox)
+![bash_unit CI](https://github.com/indiecatastrophe/secretdox/workflows/bash_unit%20CI/badge.svg)
+![Shellcheck CI](https://github.com/indiecatastrophe/secretdox/workflows/Shellcheck%20CI/badge.svg)
+![GH Language](https://img.shields.io/github/languages/top/indiecatastrophe/secretdox)
+![GH stars](https://img.shields.io/github/stars/indiecatastrophe/secretdox)
+![GH tag](https://img.shields.io/github/v/tag/indiecatastrophe/secretdox)
+![GH License](https://img.shields.io/github/license/indiecatastrophe/secretdox)
 [![basher install](https://img.shields.io/badge/basher-install-white?logo=gnu-bash&style=flat)](https://www.basher.it/package/)
 
 # pforret/mkdox
@@ -24,7 +24,6 @@ Flags, options and parameters:
     -q|--quiet       : [flag] no output [default: off]
     -v|--verbose     : [flag] also show debug messages [default: off]
     -f|--force       : [flag] do not ask for confirmation (always yes) [default: off]
-    -G|--GITPUSH     : [flag] push to git after commit [default: off]
     -I|--INDEX       : [flag] build index.md if index.pre/.post present (for mkdox build) [default: off]
     -Q|--SHORT       : [flag] include short contents of page (for mkdox toc) [default: off]
     -R|--RECURSIVE   : [flag] also list subfolders (for mkdox toc) [default: off]
@@ -108,16 +107,16 @@ Flags, options and parameters:
 
 with [basher](https://github.com/basherpm/basher)
 
-	$ basher install pforret/mkdox
+	$ basher install indiecatastrophe/secretdox
 
 or with `git`
 
-	$ git clone https://github.com/pforret/mkdox.git
+	$ git clone https://github.com/indiecatastrophe/secretdox.git
 	$ cd mkdox
 
 ## Stargazers over time 
 
-[![Stargazers over time](https://starchart.cc/pforret/mkdox.svg?variant=adaptive)](https://starchart.cc/pforret/mkdox)
+[![Stargazers over time](https://starchart.cc/indiecatastrophe/secretdox.svg?variant=adaptive)](https://starchart.cc/pforret/mkdox)
 
 
 ## 📝 Acknowledgements
